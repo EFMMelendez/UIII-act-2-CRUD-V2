@@ -1,7 +1,7 @@
 <footer class="container-fluid bg-dark">
     <div class="row">
         <div class="col-md text-light text-center py-3">
-            Desarrollado por Daniel Garcia Holguin
+            Desarrollado por Elmer Fabian Melendez Moreno
         </div>
     </div>
 </footer>
